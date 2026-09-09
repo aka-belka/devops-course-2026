@@ -4,5 +4,5 @@
 - Технологии, которые хочу освоить в этом курсе:
  1. Docker
  2. CI/CD (GitHub Actions)
- 3. 3. Linux (Bash)
+ 3. Linux (Bash)
 
