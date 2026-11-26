@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/aka-belka/devops-ci-app"
+app_tag: "49ceae7488c300099aa9d624be821f91ad5532c2"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
